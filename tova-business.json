@@ -1,0 +1,83 @@
+{
+  "schema": 1,
+  "source": "tova-explore",
+  "generatedAt": "2026-11-25T08:09:03.727Z",
+  "slug": "flowdanceacademy",
+  "name": "Flow Dance Academy",
+  "city": "Christchurch",
+  "industry": {
+    "label": "Music & dance schools",
+    "niche": "music & dance schools",
+    "group": "Fitness & education"
+  },
+  "contact": {
+    "phone": "+64275406226",
+    "email": "info@flowdanceacademy.nz",
+    "address": "10 Eglinton St, Christchurch"
+  },
+  "social": {
+    "facebook": "https://www.facebook.com/1909316969330747"
+  },
+  "about": {
+    "overview": "We were made to feel so welcome by Lana at Flow when my daughter started in the preschool class.",
+    "tagline": "Home",
+    "services": [
+      "Imagine Preschool Program",
+      "See our pre-school classes or",
+      "Recreational Dance Program",
+      "See our dance classes or",
+      "Costume Hire",
+      "Lana"
+    ]
+  },
+  "before": {
+    "url": "http://www.flowdanceacademy.nz/",
+    "domain": "flowdanceacademy.nz",
+    "finalUrl": "https://flowdanceacademy.nz/",
+    "title": "Flow Dance Academy Newzealand – Dance and Yoga Studio Christchurch",
+    "pages": 17,
+    "score": 66,
+    "assessedAt": "2026-11-19T12:57:28.420Z",
+    "issues": [
+      {
+        "id": "no-contact-path",
+        "title": "No easy way to get in touch",
+        "evidence": "No tap-to-call link and no enquiry form on the homepage."
+      },
+      {
+        "id": "stale-copyright",
+        "title": "Looks out of date",
+        "evidence": "Footer copyright reads 2017, 9 years ago."
+      },
+      {
+        "id": "broken-links",
+        "title": "Broken links",
+        "evidence": "4 of 8 checked links fail, e.g. https://flowdanceacademy.nz/book-a-free-trial-class/."
+      },
+      {
+        "id": "no-meta-desc",
+        "title": "No search description",
+        "evidence": "No meta description, so Google chooses random page text for search results."
+      },
+      {
+        "id": "img-alt",
+        "title": "Images missing descriptions",
+        "evidence": "75 of 85 images have no alt text (accessibility and SEO)."
+      },
+      {
+        "id": "no-schema",
+        "title": "No local-business search markup",
+        "evidence": "No structured data, so Google has less to show for the business."
+      }
+    ],
+    "screenshot": "screenshots/before-desktop.jpg"
+  },
+  "ours": {
+    "pagesUrl": "https://tova-studio.github.io/flow-dance-academy/",
+    "repoUrl": "https://github.com/tova-studio/flow-dance-academy",
+    "generator": "claude",
+    "accent": "#cd7399",
+    "screenshot": "screenshots/after-desktop.jpg",
+    "publishedAt": "2026-11-25T08:09:03.727Z"
+  }
+}
